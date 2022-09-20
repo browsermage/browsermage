@@ -1,17 +1,13 @@
-![Colors of code Twitter](https://firebasestorage.googleapis.com/v0/b/github-image-hosting.appspot.com/o/sonic.gif?alt=media&token=e6203beb-1ffd-4e03-96f6-666bbda9267e)
-# Hi there, my name is Björn Hjorth 👋
+![Colors of code Twitter](https://firebasestorage.googleapis.com/v0/b/github-image-hosting.appspot.com/o/sonic.gif?alt=media&token=8d2df564-67d9-4920-927b-56b6353a9117)
 
-<!--
-**colorsofcode/colorsofcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Hi there, I'm Björn Hjorth 👋
 
-Here are some ideas to get you started:
+I like combining the web and game development, if you like what you see please do not be a stranger and say "Hi" on Twitter [@colorsofcode](https://twitter.com/colorsofcode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CEO/founder at Deepnight Games
+
+💖 create games using web technologies
+🔥 I make examples & small games
+💬 As I grow older I usually prefer making games to playing them
+💡 Still trying to figure out that SaaS game dev idea
+🐥 Twitter: @colorsofcode
