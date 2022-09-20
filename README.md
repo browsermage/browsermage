@@ -4,10 +4,9 @@
 
 I like combining the web and game development, if you like what you see please do not be a stranger and say "Hi" on Twitter [@colorsofcode](https://twitter.com/colorsofcode)
 
-CEO/founder at Deepnight Games
 
-💖 create games using web technologies
-🔥 I make examples & small games
-💬 As I grow older I usually prefer making games to playing them
-💡 Still trying to figure out that SaaS game dev idea
-🐥 Twitter: @colorsofcode
+- 💖 create games using web technologies
+- 🔥 I make examples & small games
+- 💬 As I grow older I usually prefer making games to playing them
+- 💡 Still trying to figure out that SaaS game dev idea
+- 🐥 Twitter: @colorsofcode
