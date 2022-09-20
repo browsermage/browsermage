@@ -1,4 +1,5 @@
-### Hi there 👋
+![Colors of code Twitter](https://firebasestorage.googleapis.com/v0/b/github-image-hosting.appspot.com/o/sonic.gif?alt=media&token=e6203beb-1ffd-4e03-96f6-666bbda9267e)
+# Hi there, my name is Björn Hjorth 👋
 
 <!--
 **colorsofcode/colorsofcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
