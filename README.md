@@ -5,6 +5,5 @@ Hi there, I'm Björn Hjorth 👋
 I like combining the web and game development, if you like what you see please do not be a stranger and say "Hi"
 
 - ✨ Creative web developer 
-- ⚔️ Passion for game development 
-- 💬 As I grow older I usually prefer making games to playing them
+- ⚔️ Passion for game development
 - 🐥 Twitter: [@colorsofcode](https://twitter.com/colorsofcode)
