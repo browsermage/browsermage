@@ -2,7 +2,7 @@
 
 Hi there, I'm Björn Hjorth 👋
 
-Daytime I am Product Manager at Voyado, on the night time I like combining the web and game development, if you like what you see please do not be a stranger and say "Hi"
+Daytime I am a Product Manager at Voyado, on the night time I like combining the web and game development, if you like what you see please do not be a stranger and say "Hi"
 
 - ✨ Creative web developer 
 - ⚔️ Passion for game development
