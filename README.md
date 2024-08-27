@@ -6,4 +6,4 @@ I like combining the web and game development, if you like what you see please d
 
 - ✨ Creative web developer 
 - ⚔️ Passion for game development
-- 🐥 Twitter: [@browsermage](https://twitter.com/browsermage)
+- ✖️ X: [@browsermage](https://twitter.com/browsermage)
